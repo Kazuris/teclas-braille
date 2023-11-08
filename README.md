@@ -9,6 +9,6 @@ ________________________________________________________________________________
 ### Teclas:
  - 0 a 9
  - Operaões básicas: + | - | * | /
- - Símbolos de igual, parênteses, vírgula e porcentagem: = | ( | ) | , | %
+ - Símbolos de igual, parênteses, vírgula e porcentagem (padrão brasileiro e internacional): = | ( | ) | , | %
  - "C" de Clear
  - "R" de Repeat
