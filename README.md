@@ -1,6 +1,6 @@
 # Teclas em Braille
 ______________________________________________________________________________________________________
-## Foi utilizado o software Autodesk Fusion 360 para modelar 24 botões em braile
+## Foi utilizado o software Autodesk Fusion 360 para modelar 24 botões em braille
 ### Específicações:
  - Tamanho do botão: 13,5 x 13,5 x 5 mm
  - Tamannho da base: 15,5 x 15,5 mm
